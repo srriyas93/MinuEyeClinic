@@ -1,0 +1,21 @@
+/* Homepage About Doctor */
+
+.mybox{
+    height: 40px;
+    padding-top: 8px;
+    background-color: #1FBEF0;
+    color: #FFF;
+    /*font-weight: bold;*/
+    font-size: 17px;
+    vertical-align: middle;
+    text-align:center;
+    text-transform: capitalize;}
+
+.font15{
+    font-size: 15px;
+}
+
+.capitalizetxt
+{
+    text-transform:capitalize;
+}
